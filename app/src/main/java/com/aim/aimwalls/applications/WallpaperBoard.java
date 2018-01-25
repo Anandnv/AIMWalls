@@ -1,4 +1,4 @@
-package com.dm.wallpaper.board.sample.applications;
+package com.aim.aimwalls.applications;
 
 import android.support.annotation.NonNull;
 

@@ -13,11 +13,11 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.dm.wallpaper.board.sample"
+        applicationId "com.aim.aimwalls"
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 1
-        versionName "1.0"
+        versionCode 3
+        versionName "3.0"
         vectorDrawables.useSupportLibrary = true
     }
 

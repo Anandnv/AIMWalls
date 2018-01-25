@@ -1,4 +1,4 @@
-package com.dm.wallpaper.board.sample.licenses;
+package com.aim.aimwalls.licenses;
 
 import com.dm.wallpaper.board.items.InAppBilling;
 

@@ -1,10 +1,10 @@
-package com.dm.wallpaper.board.sample.activities;
+package com.aim.aimwalls.activities;
 
 import android.support.annotation.NonNull;
 
 import com.dm.wallpaper.board.activities.WallpaperBoardActivity;
 import com.dm.wallpaper.board.activities.configurations.ActivityConfiguration;
-import com.dm.wallpaper.board.sample.licenses.License;
+import com.aim.aimwalls.licenses.License;
 
 public class MainActivity extends WallpaperBoardActivity {
 

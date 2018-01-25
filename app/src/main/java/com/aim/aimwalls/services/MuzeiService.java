@@ -1,4 +1,4 @@
-package com.dm.wallpaper.board.sample.services;
+package com.aim.aimwalls.services;
 
 import com.dm.wallpaper.board.services.WallpaperBoardMuzeiService;
 
