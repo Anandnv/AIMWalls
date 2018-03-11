@@ -78,9 +78,8 @@
     <string name="splash_screen_title">AIMROM Walls</string>
     <!-- About description below title -->
     <string name="about_desc"><![CDATA[
-        About description supports html formatting, <b>bold description</b>,
-        <i>italic description</i>, <u>underline description</u>,
-        <a href="https://github.com/AIMROM">link inside description</a>.
+       <b> AIMWalls</b>. <i>Enjoy Latest wallpapers created by our team-mates and contributors,stay updated for Latest wallpapers</i>,
+        <a href="https://github.com/AIMROM">Check our Github</a>.
         ]]></string>
 
     <!-- Social link inside about
@@ -96,7 +95,7 @@
         <item>https://t.me/joinchat/EFeeN0GlvTieeq_QyPB1JA</item>
         <item>https://plus.google.com/communities/111507505190229665939</item>
         <item>https://github.com/AIMROM</item>
-        <item>http://Www.aimrom.com</item>
+        <item>https://www.aimrom.org</item>
 
     </string-array>
 
